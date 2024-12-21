@@ -1,4 +1,4 @@
-# 👋 Hi, i'm Pierre-Alexis:
+# 👋 Hi, i'm P-A:
 Currently studying at Epitech, i've done 3 years in video-games development.
 
 
